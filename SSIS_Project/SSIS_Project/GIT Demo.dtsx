@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="12/23/2019 2:58:21 PM"
+  DTS:CreationDate="12/23/2019 5:12:10 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-MVE93AJ"
   DTS:CreatorName="DESKTOP-MVE93AJ\GAIN"
-  DTS:DTSID="{4FFDD7FE-E347-42F3-AB1E-EACC388DF29E}"
+  DTS:DTSID="{1C2B6F32-7AA9-4198-8B32-6AF51347DFF1}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.1301.433"
   DTS:LocaleID="16393"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="GIT Demo"
   DTS:PackageType="5"
-  DTS:VersionBuild="6"
-  DTS:VersionGUID="{C811272E-495E-4019-B707-53A872AA33FC}">
+  DTS:VersionBuild="1"
+  DTS:VersionGUID="{2A6306B5-CC5A-40A2-8D16-D5BE8041409E}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -21,7 +21,7 @@
       DTS:refId="Package\Script Task"
       DTS:CreationName="Microsoft.ScriptTask"
       DTS:Description="Script Task"
-      DTS:DTSID="{F17BB96F-BBAE-423C-82BD-41337D3999EE}"
+      DTS:DTSID="{EE07D74C-1A91-4008-BAA0-6992F7FC3B0B}"
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Script Task"
@@ -29,7 +29,7 @@
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject
-          Name="ST_1f919fe4dbac48a0af9563e997973bea"
+          Name="ST_e6b3c575fa144c88a87e7f8d2d63cc22"
           VSTAMajorVersion="15"
           VSTAMinorVersion="0"
           Language="CSharp" />
@@ -51,7 +51,7 @@
         <NodeLayout
           Size="131,42"
           Id="Package\Script Task"
-          TopLeft="264,105" />
+          TopLeft="283,169" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
