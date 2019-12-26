@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="12/23/2019 5:12:10 PM"
@@ -12,7 +12,7 @@
   DTS:ObjectName="GIT Demo"
   DTS:PackageType="5"
   DTS:VersionBuild="3"
-  DTS:VersionGUID="{97765686-3129-4CDA-9F27-E68C1F89AEE5}">
+  DTS:VersionGUID="{8044AE57-DD00-4780-BCE1-AB3E4D405EA1}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -30,8 +30,8 @@
       <DTS:ObjectData>
         <ScriptProject
           Name="ST_9fd65b20007e4a9e852fab7deceffef8"
-          VSTAMajorVersion="15"
-          VSTAMinorVersion="0"
+          VSTAMajorVersion="2"
+          VSTAMinorVersion="2"
           Language="CSharp" />
       </DTS:ObjectData>
     </DTS:Executable>
@@ -41,7 +41,7 @@
 <!--If you manually edit this section and make a mistake, you can delete it. -->
 <!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
 <Objects
-  Version="8">
+  Version="sql12">
   <!--Each node below will contain properties that do not affect runtime behavior.-->
   <Package
     design-time-name="Package">
